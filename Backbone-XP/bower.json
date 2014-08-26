@@ -20,6 +20,7 @@
     "jquery": "~2.1.1",
     "handlebars": "~1.3.0",
     "requirejs": "~2.1.14",
-    "requirejs-text": "~2.0.12"
+    "requirejs-text": "~2.0.12",
+    "core-ajax": "polymer/core-ajax#~0.3.5"
   }
 }
